@@ -1,6 +1,6 @@
 ### Hey, sou o Bruno [RPA Automaton Brasil][linkedin] 👋
 
-[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)](https://codestackr.com)
+[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)](https://www.linkedin.com/in/bmendezzz/) -
 
 
 
