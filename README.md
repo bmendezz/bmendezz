@@ -15,11 +15,11 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 
 ## Analista de pré-vendas, Desenvolvedor, contador de histórias e ex jogador de lolzinho.
 
-- 🔭 Ensino RPA (Automation Anywhere) de maneira gratuíta: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Ensino RPA (Automation Anywhere) de maneira gratuíta: [Mestres da Automação!][course]
+- 🌱 Atualmente estou aprendendo tudo 🤣
+- 👯 Contribuo para a comunidade RPA DEV no 🇧🇷
+- 🥅 Objetivo de 2021: Finalizar um projeto de figurinhas que não tirei do papel 🤣
+- ⚡ Fato sobre mim: Se você gosta de Techno, é bem provável que seremos amigos!
 
 ### Connect with me:
 
@@ -105,7 +105,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 
 [telegram]: https://t.me/joinchat/PB0i0hHastug8Ft5BjGqkw
 [website]: https://github.com/bmendezz
-[course]: http://vsCodeHero.com
+[course]: https://www.youtube.com/watch?v=EiSdzY6IqSI&list=PL4SJu6dhqO9qRF0uTSu_LjGrEpmKXXv1I
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/c/RPAAutomationBRASIL/featured
 [instagram]: https://instagram.com/codeSTACKr
