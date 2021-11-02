@@ -1,7 +1,16 @@
 ### Hey, sou o Bruno [RPA Automaton Brasil][linkedin] 👋
 
-[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)
-![Participe da comunidade no Telegram](https://img.shields.io/static/v1?label=Telegram&message=Participe&color=blue&logo=Telegram)](https://www.youtube.com/c/RPAAutomationBRASIL/featured)
+[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)](https://codestackr.com)
+
+
+
+
+
+
+
+
+
+
 
 ## Analista de pré-vendas, Desenvolvedor, contador de histórias e ex jogador de lolzinho.
 
