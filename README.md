@@ -1,9 +1,9 @@
 ### Hey, sou o Bruno! <br />
 Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][youtube] 👋
 
-[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)](https://www.linkedin.com/in/bmendezzz/) -
-[![telegram](https://img.shields.io/static/v1?label=Telegram&message=Participe da comunidade no Telegram&color=blue&logo=Telegram)]
-
+[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)](https://www.linkedin.com/in/bmendezzz/) 
+[![telegram](https://img.shields.io/static/v1?label=Telegram&message=ParticipeDoTelegram&color=blue&logo=Telegram)](https://www.linkedin.com/in/bmendezzz/) 
+[![youtube](https://img.shields.io/static/v1?label=Youtube&message=ConheçaMeuTrabalho&color=red&logo=Youtube)](https://www.youtube.com/c/RPAAutomationBRASIL/featured)
 
 
 
