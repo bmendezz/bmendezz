@@ -1,11 +1,11 @@
-### Olá, eu sou Bruno Mendes [RPA Automaton Brasil][Youtube] 👋
+### Hey, sou o Bruno [RPA Automaton Brasil][linkedin] 👋
 
-[![Youtube](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.youtube.com/c/RPAAutomationBRASIL/featured)
+[![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)
+![Participe da comunidade no Telegram](https://img.shields.io/static/v1?label=Telegram&message=Participe&color=blue&logo=Telegram)](https://www.youtube.com/c/RPAAutomationBRASIL/featured)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Analista de pré-vendas, Desenvolvedor, contador de histórias e ex jogador de lolzinho.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Ensino RPA (Automation Anywhere) de maneira gratuíta: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
