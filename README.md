@@ -61,7 +61,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 [telegram]: https://t.me/joinchat/PB0i0hHastug8Ft5BjGqkw
 [website]: https://github.com/bmendezz
 [course]: https://www.youtube.com/watch?v=EiSdzY6IqSI&list=PL4SJu6dhqO9qRF0uTSu_LjGrEpmKXXv1I
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/SirMendesTheOne
 [youtube]: https://www.youtube.com/c/RPAAutomationBRASIL/featured
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/bmendezzz/
