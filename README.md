@@ -20,7 +20,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 - 🤖 Trabalho com: Automação Robótica de Processos 
 - 👯 Objetivo: Contribuir + com a comunidade DEV. RPA
 - 🥅 Objetivo de 2021: Finalizar um projeto de figurinhas que não tirei do papel 🤣
-- ⚡ Fato sobre mim: Se você gosta de Techno, é bem provável que seremos amigos!
+- ⚡ Fato sobre mim: Se você gosta de mim, eu gosto de você. Simples assim 🤠
 
 ### Me encontre em:
 
