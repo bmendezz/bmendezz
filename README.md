@@ -1,5 +1,5 @@
 ### Hey, sou o Bruno! <br />
-Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][youtube] 👋
+Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][youtube] :robot:
 
 [![linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Conectar&color=blue&logo=linkedin)](https://www.linkedin.com/in/bmendezzz/) 
 [![telegram](https://img.shields.io/static/v1?label=Telegram&message=ParticipeDoTelegram&color=blue&logo=Telegram)](https://t.me/joinchat/PB0i0hHastug8Ft5BjGqkw) 
