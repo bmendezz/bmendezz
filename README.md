@@ -26,8 +26,8 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 
 ### Linguagens e Ferramentas:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][#]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
@@ -49,7 +49,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 ---
 
 [telegram]: https://t.me/joinchat/PB0i0hHastug8Ft5BjGqkw
-[website]: https://github.com/bmendezz
+[website]: 
 [course]: https://www.youtube.com/watch?v=EiSdzY6IqSI&list=PL4SJu6dhqO9qRF0uTSu_LjGrEpmKXXv1I
 [twitter]: https://twitter.com/SirMendesTheOne
 [youtube]: https://www.youtube.com/c/RPAAutomationBRASIL/featured
