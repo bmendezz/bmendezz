@@ -17,7 +17,6 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 
 ### Me encontre em:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="#" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -54,7 +53,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 [course]: https://www.youtube.com/watch?v=EiSdzY6IqSI&list=PL4SJu6dhqO9qRF0uTSu_LjGrEpmKXXv1I
 [twitter]: https://twitter.com/SirMendesTheOne
 [youtube]: https://www.youtube.com/c/RPAAutomationBRASIL/featured
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/rpa.automation
 [linkedin]: https://www.linkedin.com/in/bmendezzz/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
