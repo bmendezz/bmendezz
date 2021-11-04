@@ -55,7 +55,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 [youtube]: https://www.youtube.com/c/RPAAutomationBRASIL/featured
 [instagram]: https://www.instagram.com/rpa.automation
 [linkedin]: https://www.linkedin.com/in/bmendezzz/
-[webdevplaylist]: https://youtu.be/EiSdzY6IqSI
+[webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
