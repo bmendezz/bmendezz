@@ -6,13 +6,6 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 [![youtube](https://img.shields.io/static/v1?label=Youtube&message=ConheçaMeuTrabalho&color=red&logo=Youtube)](https://www.youtube.com/c/RPAAutomationBRASIL/featured)
 
 
-
-
-
-
-
-
-
 ## Analista de pré-vendas, Desenvolvedor, contador de histórias e ex jogador de lolzinho.
 
 - 🔭 Ensino RPA (Automation Anywhere) de maneira gratuíta: [Mestres da Automação!][course]
@@ -24,7 +17,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 
 ### Me encontre em:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="#" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -55,8 +48,6 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 <br />
 
 ---
-
-
 
 [telegram]: https://t.me/joinchat/PB0i0hHastug8Ft5BjGqkw
 [website]: https://github.com/bmendezz
