@@ -49,7 +49,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 ---
 
 [telegram]: https://t.me/joinchat/PB0i0hHastug8Ft5BjGqkw
-[website]: 
+[website]: #
 [course]: https://www.youtube.com/watch?v=EiSdzY6IqSI&list=PL4SJu6dhqO9qRF0uTSu_LjGrEpmKXXv1I
 [twitter]: https://twitter.com/SirMendesTheOne
 [youtube]: https://www.youtube.com/c/RPAAutomationBRASIL/featured
