@@ -6,7 +6,7 @@ Ensino RPA (Automation Anywhere) de maneira gratuíta [RPA Automaton Brasil][you
 [![youtube](https://img.shields.io/static/v1?label=Youtube&message=ConheçaMeuTrabalho&color=red&logo=Youtube)](https://www.youtube.com/c/RPAAutomationBRASIL/featured)
 
 
-## Analista de pré-vendas, Desenvolvedor, contador de histórias e ex jogador de lolzinho
+## Engenheiro de pré-vendas, Desenvolvedor, contador de histórias e ex jogador de lolzinho
 
 - 🔭 Ensino RPA (Automation Anywhere) de maneira gratuíta: [Mestres da Automação!][course]
 - 🌱 Atualmente estou aprendendo tudo 🤣
